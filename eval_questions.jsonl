@@ -1,0 +1,95 @@
+{"question":"What is a common cause of vomiting in dogs?","options":{"A":"Dietary indiscretion","B":"Excess exercise","C":"Cold weather","D":"Normal digestion"},"answer":"A","category":"vomiting"}
+{"question":"When should dog vomiting be considered an emergency?","options":{"A":"If it happens once","B":"If vomiting continues for more than 24 hours","C":"If dog drinks water","D":"If dog sleeps"},"answer":"B","category":"vomiting"}
+{"question":"Which symptom alongside vomiting suggests immediate veterinary care?","options":{"A":"Tail wagging","B":"Blood in vomit","C":"Sleeping","D":"Barking"},"answer":"B","category":"vomiting"}
+{"question":"What is a common cause of diarrhea in dogs?","options":{"A":"Diet change","B":"Normal sleep","C":"Exercise","D":"Drinking water"},"answer":"A","category":"diarrhea"}
+{"question":"Which symptom with diarrhea indicates dehydration risk?","options":{"A":"Bright eyes","B":"Dry gums","C":"Normal stool","D":"Thick fur"},"answer":"B","category":"diarrhea"}
+{"question":"If diarrhea lasts longer than how many days should a vet be consulted?","options":{"A":"1","B":"2","C":"5","D":"10"},"answer":"B","category":"diarrhea"}
+{"question":"What is the hallmark symptom of kennel cough?","options":{"A":"Dry honking cough","B":"Sneezing once","C":"Tail wagging","D":"Slow walking"},"answer":"A","category":"cough"}
+{"question":"How is kennel cough commonly transmitted?","options":{"A":"Water","B":"Dog-to-dog contact","C":"Sunlight","D":"Food"},"answer":"B","category":"cough"}
+{"question":"Which place increases kennel cough risk?","options":{"A":"Dog parks","B":"Living room","C":"Bathroom","D":"Kitchen"},"answer":"A","category":"cough"}
+{"question":"Which symptom indicates respiratory distress in dogs?","options":{"A":"Rapid breathing","B":"Sleeping","C":"Eating","D":"Running"},"answer":"A","category":"breathing"}
+{"question":"What posture may indicate breathing difficulty?","options":{"A":"Head stretched forward","B":"Sleeping curled","C":"Lying on back","D":"Tail wagging"},"answer":"A","category":"breathing"}
+{"question":"What should be done during severe breathing distress?","options":{"A":"Wait overnight","B":"Immediate veterinary care","C":"Give treats","D":"Walk outside"},"answer":"B","category":"breathing"}
+{"question":"What is a common cause of limping in dogs?","options":{"A":"Injury","B":"Happy mood","C":"Sleeping","D":"Eating"},"answer":"A","category":"limping"}
+{"question":"Which symptom with limping requires urgent vet care?","options":{"A":"Non-weight bearing","B":"Tail wagging","C":"Sleeping","D":"Yawning"},"answer":"A","category":"limping"}
+{"question":"Which condition may cause sudden limping?","options":{"A":"Sprain","B":"Normal growth","C":"Healthy joints","D":"Hydration"},"answer":"A","category":"limping"}
+{"question":"What is lethargy in dogs?","options":{"A":"Extreme tiredness","B":"Happiness","C":"Exercise","D":"Normal play"},"answer":"A","category":"lethargy"}
+{"question":"Which symptom often accompanies lethargy?","options":{"A":"Loss of appetite","B":"Jumping","C":"Running","D":"Barking"},"answer":"A","category":"lethargy"}
+{"question":"Which illness can cause lethargy?","options":{"A":"Infection","B":"Walking","C":"Sleeping","D":"Playing"},"answer":"A","category":"lethargy"}
+{"question":"What is a seizure symptom in dogs?","options":{"A":"Uncontrolled shaking","B":"Normal walking","C":"Tail wagging","D":"Sleeping"},"answer":"A","category":"seizure"}
+{"question":"What should an owner do during a dog seizure?","options":{"A":"Stay calm and keep dog safe","B":"Shake dog","C":"Feed food","D":"Walk dog"},"answer":"A","category":"seizure"}
+{"question":"Which condition can cause seizures?","options":{"A":"Epilepsy","B":"Hydration","C":"Walking","D":"Playing"},"answer":"A","category":"seizure"}
+{"question":"What is anorexia in dogs?","options":{"A":"Loss of appetite","B":"Excess hunger","C":"Normal eating","D":"Weight gain"},"answer":"A","category":"appetite"}
+{"question":"Which disease may cause loss of appetite?","options":{"A":"Infection","B":"Healthy digestion","C":"Exercise","D":"Sleep"},"answer":"A","category":"appetite"}
+{"question":"How long without eating should concern owners?","options":{"A":"24 hours","B":"5 minutes","C":"1 hour","D":"10 minutes"},"answer":"A","category":"appetite"}
+{"question":"What is a common cause of eye discharge?","options":{"A":"Allergy","B":"Running","C":"Sleeping","D":"Playing"},"answer":"A","category":"eye"}
+{"question":"Which eye symptom requires veterinary attention?","options":{"A":"Thick yellow discharge","B":"Blinking","C":"Sleeping","D":"Walking"},"answer":"A","category":"eye"}
+{"question":"Which condition causes ear infection signs?","options":{"A":"Bacteria or yeast","B":"Running","C":"Hydration","D":"Exercise"},"answer":"A","category":"ear"}
+{"question":"What symptom indicates ear infection?","options":{"A":"Head shaking","B":"Tail wagging","C":"Sleeping","D":"Walking"},"answer":"A","category":"ear"}
+{"question":"What medication is Rimadyl used for?","options":{"A":"Pain relief","B":"Flea control","C":"Vaccination","D":"Antibiotics"},"answer":"A","category":"medication"}
+{"question":"Which type of drug is Rimadyl?","options":{"A":"NSAID","B":"Antibiotic","C":"Vaccine","D":"Antifungal"},"answer":"A","category":"medication"}
+{"question":"What condition can heatstroke cause?","options":{"A":"Organ failure","B":"Better sleep","C":"More energy","D":"Faster digestion"},"answer":"A","category":"heatstroke"}
+{"question":"Which dog is most at risk for heatstroke?","options":{"A":"Brachycephalic breeds","B":"Working dogs","C":"Young dogs","D":"Thin dogs"},"answer":"A","category":"heatstroke"}
+{"question":"How do dogs primarily cool themselves?","options":{"A":"Panting","B":"Sweating heavily","C":"Drinking milk","D":"Sleeping"},"answer":"A","category":"temperature"}
+{"question":"Where do dogs sweat?","options":{"A":"Paw pads","B":"Back","C":"Tail","D":"Fur"},"answer":"A","category":"temperature"}
+{"question":"Can dogs drink Pedialyte?","options":{"A":"Sometimes under vet guidance","B":"Always","C":"Never","D":"Only puppies"},"answer":"A","category":"hydration"}
+{"question":"Which symptom suggests dehydration?","options":{"A":"Dry gums","B":"Wet fur","C":"Fast running","D":"Eating"},"answer":"A","category":"dehydration"}
+{"question":"What test checks dehydration?","options":{"A":"Skin tent test","B":"Ear test","C":"Eye test","D":"Nose test"},"answer":"A","category":"dehydration"}
+{"question":"Which medication type treats dog pain?","options":{"A":"NSAIDs","B":"Vaccines","C":"Sedatives","D":"Antifungals"},"answer":"A","category":"pain"}
+{"question":"Why should human pain meds not be given to dogs?","options":{"A":"Toxicity risk","B":"Too weak","C":"Too expensive","D":"No effect"},"answer":"A","category":"pain"}
+{"question":"What symptom suggests back pain in dogs?","options":{"A":"Difficulty jumping","B":"Eating","C":"Sleeping","D":"Running"},"answer":"A","category":"backpain"}
+{"question":"Which condition causes back pain?","options":{"A":"Intervertebral disc disease","B":"Hydration","C":"Running","D":"Eating"},"answer":"A","category":"backpain"}
+{"question":"Which symptom may indicate terminal cancer?","options":{"A":"Severe weight loss","B":"High energy","C":"Normal appetite","D":"Running"},"answer":"A","category":"cancer"}
+{"question":"Which sign suggests declining quality of life in cancer?","options":{"A":"Chronic pain","B":"Tail wagging","C":"Sleeping","D":"Running"},"answer":"A","category":"cancer"}
+{"question":"Which sign may accompany vomiting and suggest severe illness?","options":{"A":"Bloody vomit","B":"Tail wagging","C":"Sleeping","D":"Playing"},"answer":"A","category":"vomiting"}
+{"question":"What dietary mistake commonly causes dog vomiting?","options":{"A":"Eating spoiled food","B":"Walking outside","C":"Sleeping late","D":"Drinking water"},"answer":"A","category":"vomiting"}
+{"question":"Which sign suggests vomiting may be due to obstruction?","options":{"A":"Repeated vomiting without food","B":"Tail wagging","C":"Normal stool","D":"Playing"},"answer":"A","category":"vomiting"}
+{"question":"Which symptom often appears with diarrhea caused by parasites?","options":{"A":"Weight loss","B":"Shiny coat","C":"Increased play","D":"Running"},"answer":"A","category":"diarrhea"}
+{"question":"Which stool feature suggests serious diarrhea?","options":{"A":"Blood in stool","B":"Firm stool","C":"Dry stool","D":"Normal color"},"answer":"A","category":"diarrhea"}
+{"question":"Which factor commonly triggers diarrhea in dogs?","options":{"A":"Sudden diet change","B":"Sleeping","C":"Walking","D":"Sunlight"},"answer":"A","category":"diarrhea"}
+{"question":"Which sign often accompanies kennel cough infection?","options":{"A":"Gagging after coughing","B":"Sleeping quietly","C":"Running","D":"Tail wagging"},"answer":"A","category":"cough"}
+{"question":"Which environment spreads kennel cough easily?","options":{"A":"Kennels and shelters","B":"Private home","C":"Backyard","D":"Living room"},"answer":"A","category":"cough"}
+{"question":"Which vaccination can help prevent kennel cough?","options":{"A":"Bordetella vaccine","B":"Rabies vaccine","C":"Distemper vaccine","D":"Lyme vaccine"},"answer":"A","category":"cough"}
+{"question":"Which breathing sign suggests emergency respiratory distress?","options":{"A":"Blue gums","B":"Tail wagging","C":"Sleeping","D":"Eating"},"answer":"A","category":"breathing"}
+{"question":"What noise may indicate breathing difficulty?","options":{"A":"Wheezing","B":"Barking","C":"Yawning","D":"Snoring"},"answer":"A","category":"breathing"}
+{"question":"Which breathing pattern indicates distress?","options":{"A":"Rapid shallow breathing","B":"Slow breathing","C":"Normal panting","D":"Sleeping breathing"},"answer":"A","category":"breathing"}
+{"question":"Which injury commonly causes sudden limping?","options":{"A":"Torn ligament","B":"Healthy muscle","C":"Hydration","D":"Eating"},"answer":"A","category":"limping"}
+{"question":"What should an owner check if a dog suddenly limps?","options":{"A":"Paw injury or foreign object","B":"Tail color","C":"Ear shape","D":"Fur color"},"answer":"A","category":"limping"}
+{"question":"Which symptom with limping suggests fracture?","options":{"A":"Severe pain when touching limb","B":"Tail wagging","C":"Eating","D":"Sleeping"},"answer":"A","category":"limping"}
+{"question":"Which illness commonly causes lethargy?","options":{"A":"Infection","B":"Exercise","C":"Running","D":"Playing"},"answer":"A","category":"lethargy"}
+{"question":"Which symptom with lethargy suggests systemic disease?","options":{"A":"Fever","B":"Tail wagging","C":"Sleeping","D":"Eating"},"answer":"A","category":"lethargy"}
+{"question":"Which behavior indicates lethargy?","options":{"A":"Unwilling to move","B":"Running","C":"Jumping","D":"Playing"},"answer":"A","category":"lethargy"}
+{"question":"What is a common trigger of seizures in dogs?","options":{"A":"Epilepsy","B":"Hydration","C":"Running","D":"Eating"},"answer":"A","category":"seizure"}
+{"question":"What should be avoided during a seizure?","options":{"A":"Putting hands near dog's mouth","B":"Clearing space","C":"Timing seizure","D":"Staying calm"},"answer":"A","category":"seizure"}
+{"question":"How long seizure duration requires emergency care?","options":{"A":"More than 5 minutes","B":"10 seconds","C":"1 minute","D":"30 seconds"},"answer":"A","category":"seizure"}
+{"question":"Which symptom indicates eye infection?","options":{"A":"Redness","B":"Tail wagging","C":"Sleeping","D":"Running"},"answer":"A","category":"eye"}
+{"question":"Which type of discharge suggests infection?","options":{"A":"Thick yellow discharge","B":"Clear tears","C":"Dry eye","D":"Normal moisture"},"answer":"A","category":"eye"}
+{"question":"Which behavior indicates eye discomfort?","options":{"A":"Frequent pawing at eye","B":"Sleeping","C":"Eating","D":"Walking"},"answer":"A","category":"eye"}
+
+{"question":"Which sign commonly appears with ear infection?","options":{"A":"Head shaking","B":"Sleeping","C":"Running","D":"Eating"},"answer":"A","category":"ear"}
+{"question":"Which smell suggests ear infection?","options":{"A":"Strong foul odor","B":"No smell","C":"Sweet smell","D":"Normal smell"},"answer":"A","category":"ear"}
+{"question":"Which discharge suggests ear infection?","options":{"A":"Dark waxy discharge","B":"Clear fluid","C":"No wax","D":"Dry ear"},"answer":"A","category":"ear"}
+
+{"question":"What type of medication is Rimadyl?","options":{"A":"Anti-inflammatory","B":"Antibiotic","C":"Vaccine","D":"Antifungal"},"answer":"A","category":"medication"}
+{"question":"Which condition is Rimadyl often prescribed for?","options":{"A":"Arthritis pain","B":"Ear infection","C":"Eye infection","D":"Vomiting"},"answer":"A","category":"medication"}
+{"question":"Which side effect can occur with NSAIDs in dogs?","options":{"A":"Stomach upset","B":"Better appetite","C":"More sleep","D":"Faster running"},"answer":"A","category":"medication"}
+
+{"question":"Which early symptom indicates heatstroke?","options":{"A":"Excessive panting","B":"Sleeping","C":"Eating","D":"Running"},"answer":"A","category":"heatstroke"}
+{"question":"Which environment increases heatstroke risk?","options":{"A":"Hot car","B":"Living room","C":"Cold room","D":"Backyard"},"answer":"A","category":"heatstroke"}
+{"question":"Which sign suggests severe heatstroke?","options":{"A":"Collapse","B":"Sleeping","C":"Eating","D":"Tail wagging"},"answer":"A","category":"heatstroke"}
+
+{"question":"Why do dogs pant?","options":{"A":"To regulate body temperature","B":"To smell","C":"To sleep","D":"To eat"},"answer":"A","category":"temperature"}
+{"question":"Which body part contains sweat glands in dogs?","options":{"A":"Paw pads","B":"Back","C":"Tail","D":"Ears"},"answer":"A","category":"temperature"}
+
+{"question":"Which fluid may help mild dehydration in dogs?","options":{"A":"Electrolyte solution","B":"Milk","C":"Juice","D":"Soda"},"answer":"A","category":"hydration"}
+{"question":"Which sign indicates moderate dehydration?","options":{"A":"Sunken eyes","B":"Bright eyes","C":"Wet nose","D":"Running"},"answer":"A","category":"dehydration"}
+{"question":"What is the skin tent test used for?","options":{"A":"Check hydration","B":"Check infection","C":"Check weight","D":"Check temperature"},"answer":"A","category":"dehydration"}
+
+{"question":"Which medication type treats inflammation in dogs?","options":{"A":"NSAIDs","B":"Vaccines","C":"Antibiotics","D":"Sedatives"},"answer":"A","category":"pain"}
+{"question":"Why should ibuprofen not be given to dogs?","options":{"A":"Toxic to dogs","B":"Too weak","C":"Too strong smell","D":"Expensive"},"answer":"A","category":"pain"}
+
+{"question":"Which movement difficulty suggests back pain?","options":{"A":"Reluctance to jump","B":"Running","C":"Eating","D":"Sleeping"},"answer":"A","category":"backpain"}
+{"question":"Which neurological sign may accompany back pain?","options":{"A":"Weak hind legs","B":"Tail wagging","C":"Sleeping","D":"Eating"},"answer":"A","category":"backpain"}
+
+{"question":"Which sign may indicate advanced cancer in dogs?","options":{"A":"Severe weight loss","B":"Increased appetite","C":"Running","D":"Jumping"},"answer":"A","category":"cancer"}
+{"question":"Which symptom suggests declining quality of life?","options":{"A":"Persistent pain","B":"Tail wagging","C":"Eating","D":"Sleeping"},"answer":"A","category":"cancer"}

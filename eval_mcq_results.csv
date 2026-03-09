@@ -1,0 +1,355 @@
+question,category,expected,predicted,correct,rag_hit,rag_docs_count,rag_context_preview,latency_sec
+What is a common cause of vomiting in dogs?,vomiting,A,A,True,True,3,"You know or suspect your dog has eaten or drunk a toxin.
+
+
+You know or suspect your dog has eaten a foreign body.
+
+
+Your dog has other symptoms such as:
+
+
+Lethargy
+
+
+Decreased appetite
+
+
+Fever
+
+
+Belly",4.12
+When should dog vomiting be considered an emergency?,vomiting,B,B,True,True,3,"Dogs are more prone to heatstroke if they are overweight or brachycephalic (short-muzzled/flat-faced) breeds, but all dogs are at risk. It is best to leave your dog at home if you are not able to run ",1.09
+Which symptom alongside vomiting suggests immediate veterinary care?,vomiting,B,B,True,True,3,"Your vet may offer specific treatments such as pain medicine, fluids if your dog is dehydrated, antibiotics (commonly Clavamox and Doxycycline) if there’s an infection, or anti-nausea medicine (such a",1.37
+What is a common cause of diarrhea in dogs?,diarrhea,A,A,True,True,3,"Dog Diarrhea | PetMD
+
+You know or suspect your dog has eaten or drunk a toxin.
+
+
+You know or suspect your dog has eaten a foreign body.
+
+
+Your dog has other symptoms such as:
+
+
+Lethargy
+
+
+Decreased ap",1.21
+Which symptom with diarrhea indicates dehydration risk?,diarrhea,B,B,True,True,3,"children or adults with mild diarrhea or dehydration. It can help rehydrate and replenish electrolytes, which often makes a sick person with mild dehydration feel better.
+
+Is My Dog Dehydrated? | PetM",1.23
+If diarrhea lasts longer than how many days should a vet be consulted?,diarrhea,B,B,True,True,3,"Dog Diarrhea FAQs Should I be worried if my dog has diarrhea but is acting fine? If your dog has diarrhea but otherwise acts healthy and happy, you shouldn’t worry. Withhold food for six to 12 hours a",0.4
+What is the hallmark symptom of kennel cough?,cough,A,A,True,True,3,"Kennel cough is a common, contagious disease that produces coughing and other upper respiratory symptoms in dogs. The disease can cause significant discomfort — and in some cases, serious complication",0.4
+How is kennel cough commonly transmitted?,cough,B,B,True,True,3,"Kennel cough is a common, contagious disease that produces coughing and other upper respiratory symptoms in dogs. The disease can cause significant discomfort — and in some cases, serious complication",0.43
+Which place increases kennel cough risk?,cough,A,A,True,True,3,"You can also reduce your dog’s risk by choosing facilities (boarding, grooming, etc.) wisely. Kennel cough can occur even in excellent facilities — just like a human day care, infectious diseases can ",1.24
+Which symptom indicates respiratory distress in dogs?,breathing,A,A,True,True,3,"what does it look like?Respiratory distress occurs when a dog cannot get enough oxygen to meet its body’s demands.Signs of respiratory distress may include:Rapid breathing, often with an open mouthA b",0.49
+What posture may indicate breathing difficulty?,breathing,A,A,True,True,3,"what does it look like?Respiratory distress occurs when a dog cannot get enough oxygen to meet its body’s demands.Signs of respiratory distress may include:Rapid breathing, often with an open mouthA b",1.94
+What should be done during severe breathing distress?,breathing,B,B,True,True,3,"chin and neck extended. Try to speak softly to them to help keep them calm.What causes respiratory distress?There are many conditions that can cause respiratory distress, including:Inadequate function",0.33
+What is a common cause of limping in dogs?,limping,A,A,True,True,3,"Why Is My Dog Limping? | PetMD
+
+Recovery and Management of Limping in Dogs
+Some causes of limping will recover quickly with rest and pain medications. If your pet has had surgery or more advanced trea",0.88
+Which symptom with limping requires urgent vet care?,limping,A,A,True,True,3,"The reason could be less severe or they’re simply trying to hide the pain, but they should still be examined by the veterinarian.
+When should I take my dog to the vet if she’s limping? If your dog is ",0.49
+Which condition may cause sudden limping?,limping,A,A,True,True,3,"Why Is My Dog Limping? | PetMD
+
+Types of Limping in Dogs
+There are a few different types of lameness in dogs.
+Chronic Dog Limping
+By definition, a chronic limp has been present for two weeks or more.
+",1.16
+What is lethargy in dogs?,lethargy,A,A,True,True,3,"Lethargy in Dogs: When To Worry | PetMD
+
+ImagesIn This ArticleWhat Is Dog Lethargy?View 5 More +Lethargy in dogs is a symptom that can occur with several health issues in pups.
+
+What Causes Lethargy i",0.43
+Which symptom often accompanies lethargy?,lethargy,A,A,True,True,3,"Lethargy in Dogs: When To Worry | PetMD
+
+Injury or trauma
+
+
+Poison or toxin
+
+
+Cancer
+
+
+
+Symptoms of Lethargy in Dogs
+Lethargy in dogs is almost always a secondary symptom of a primary underlying condi",0.38
+Which illness can cause lethargy?,lethargy,A,A,True,True,3,"What Causes Lethargy in Dogs? 
+There are several possible causes of lethargy in dogs. A few common reasons a dog may be lethargic include:
+
+
+Infection
+
+
+Viral, bacterial, fungal
+
+
+External parasites (",0.35
+What is a seizure symptom in dogs?,seizure,A,A,True,True,3,"their normal selves, other than having a cough. Dogs with more serious disease may display general signs of not feeling well, like lethargy, decreased appetite, or a fever.
+
+A partial seizure is cause",0.75
+What should an owner do during a dog seizure?,seizure,A,A,True,True,3,"Additional care may include oxygen therapy, plasma transfusions, and/or anti-arrhythmic medications (such as lidocaine) as needed.
+
+
+While in the hospital, the veterinary staff will monitor your dog’s",1.11
+Which condition can cause seizures?,seizure,A,A,True,True,3,A partial seizure is caused by abnormal electrical activity within a relatively small portion of the brain. I don’t know what part of the brain needs to be stimulated to make a dog exhibit fly biting ,0.39
+What is anorexia in dogs?,appetite,A,A,True,True,3,"Anorexia is a very serious condition which causes a ferret to lose its appetite, refuse to eat, and thus lose a dangerous amount of weight. Typically, ferrets lose their desire to eat due to systemic ",0.31
+Which disease may cause loss of appetite?,appetite,A,A,True,True,3,"Loss of Appetite in Ferrets | PetMD
+
+Pallor
+Jaundice
+Lethargy
+Weight loss
+Inability or lack of desire to consume food
+Pain while swallowing (Dysphagia)
+Pain while eating (Odynophagia)
+Dental disorders",0.44
+How long without eating should concern owners?,appetite,A,A,True,True,3,"Dog Diarrhea FAQs Should I be worried if my dog has diarrhea but is acting fine? If your dog has diarrhea but otherwise acts healthy and happy, you shouldn’t worry. Withhold food for six to 12 hours a",0.35
+What is a common cause of eye discharge?,eye,A,A,True,True,3,"5 Types of Dog Eye Discharge and When To Go to the Vet | PetMD
+
+Common Types of Eye Discharge in Dogs
+Let’s take a look at five common types of dog eye discharge and what you should do about them.
+1. ",0.3
+Which eye symptom requires veterinary attention?,eye,A,A,True,True,3,"Eye infections can develop as a primary problem or as a result of another condition (corneal wounds or dry eye, for example) that weakens the eye’s natural defenses against infection. Sometimes what l",0.63
+Which condition causes ear infection signs?,ear,A,A,True,True,3,"8 Signs Your Dog Has an Ear Infection
+
+8 Signs of Ear Infections in Dogs: What To Look For | PetMD
+
+Dog ear infections happen when the normal balance of microorganisms in the ear is thrown off, allowi",0.36
+What symptom indicates ear infection?,ear,A,A,True,True,3,"8 Signs Your Dog Has an Ear Infection
+
+8 Signs of Ear Infections in Dogs: What To Look For | PetMD
+
+The most common signs of dog ear infections include head shaking, odor, redness, swelling, and disch",0.4
+What medication is Rimadyl used for?,medication,A,A,True,True,3,"Carprofen (Rimadyl) for Dogs | PetMD
+
+What Is Carprofen Used for in Dogs?
+Veterinarians commonly prescribe carprofen to treat osteoarthritis (OA) and other causes of inflammation in dogs. Carprofen is",0.52
+Which type of drug is Rimadyl?,medication,A,A,True,True,3,"Carprofen (Rimadyl) for Dogs | PetMD
+
+in DogsEnd of Life CareSenior Cat CareSenior Dog CareSpecialty Pet Care SheetsWildlifeProduct ReviewsVet Verified ProductsAbout Vet VerifiedHealth ToolsSymptom Ch",0.31
+What condition can heatstroke cause?,heatstroke,A,A,True,True,3,"Heatstroke occurs when a dog's body cannot cool down.
+This results in damage to the tissues of the body (inflammation), which leads to decreased blood flow to the organs and can ultimately cause organ",0.45
+Which dog is most at risk for heatstroke?,heatstroke,A,A,True,True,3,"Heatstroke in Dogs: Signs, Treatment, and Prevention | PetMD
+
+Heatstroke in dogs is becoming increasingly more dangerous due to climate change and extreme weather patterns.
+If you suspect your dog may",0.43
+How do dogs primarily cool themselves?,temperature,A,A,True,True,3,"How to Keep Your Dog Cool
+Dogs do not cool down by sweating the way humans do, so care is needed to prevent overheating. Dogs should always have access to shade and cool water when playing outside. In",0.42
+Where do dogs sweat?,temperature,A,A,True,True,3,"Do Dogs Sweat? | PetMD
+
+in DogsEnd of Life CareSenior Cat CareSenior Dog CareSpecialty Pet Care SheetsWildlifeProduct ReviewsVet Verified ProductsAbout Vet VerifiedHealth ToolsSymptom CheckerHealthy W",0.85
+Can dogs drink Pedialyte?,hydration,A,A,True,True,3,"Can You Give a Dog Pedialyte? | PetMD
+
+Patients with vomiting, moderate to severe dehydration, diabetes, heart disease, kidney disease or other diseases that make your pet sensitive to sodium or sugar",0.34
+Which symptom suggests dehydration?,dehydration,A,A,True,True,3,"Is My Dog Dehydrated? | PetMD
+
+That’s why it’s so important to recognize the signs of dehydration in dogs so you can get them the proper treatment. Here’s what you need to know.
+What Is Dehydration in",0.31
+What test checks dehydration?,dehydration,A,A,True,True,3,"Is My Dog Dehydrated? | PetMD
+
+Skin Pinch Test (Skin Tent)
+You can check for dehydration by testing the elasticity of your dog’s skin. Do this by gently pulling up some of your dog’s loose skin at the",0.37
+Which medication type treats dog pain?,pain,A,A,True,True,3,"Pain Meds for Dogs: What Can You Give a Dog for Pain? | PetMD
+
+Your vet will work with you to develop a special plan for your dog’s pain relief, depending on the type of pain your dog is experiencing.",0.47
+Why should human pain meds not be given to dogs?,pain,A,A,True,True,3,"Pain Meds for Dogs: What Can You Give a Dog for Pain? | PetMD
+
+These are natural ways to enhance pain control when a pet can't tolerate medications or needs additional care.   
+There are a variety of ",0.45
+What symptom suggests back pain in dogs?,backpain,A,A,True,True,3,"Back Pain In Dogs: 7 Common Reasons For Dog Back Pain | PetMD
+
+How Do I Know If My Dog Has Back Pain?
+The most obvious sign of back pain in dogs is when they cry out when touched in the affected area ",0.36
+Which condition causes back pain?,backpain,A,A,True,True,3,"Back Pain In Dogs: 7 Common Reasons For Dog Back Pain | PetMD
+
+Muscle strain. Just like humans, dogs can move abnormally and develop strained muscles. Muscles tend to tighten, leading to tension and p",0.89
+Which symptom may indicate terminal cancer?,cancer,A,A,True,True,3,"Signs a Dog Is Dying of Cancer | PetMD
+
+Hemangiosarcoma—Often, this cancer is not diagnosed until it has progressed. Rupture of tumors growing in the spleen, liver, or heart lead to bleeding and event",0.31
+Which sign suggests declining quality of life in cancer?,cancer,A,A,True,True,3,"Signs a Dog Is Dying of Cancer | PetMD
+
+If treatment is no longer an option or quality of life can’t be obtained, it’s time to start discussing end-of-life care with your veterinarian. But how do you ",0.31
+Which sign may accompany vomiting and suggest severe illness?,vomiting,A,A,True,True,3,"Pale gum color (can indicate internal bleeding and can lead to life-threatening anemia)
+
+
+Distended abdomen (can be a sign of bloat or other abdominal emergencies)
+
+
+Labored breathing or blue or purpl",0.54
+What dietary mistake commonly causes dog vomiting?,vomiting,A,A,True,True,3,"Toxin ingestion—Pet toxins, such as chocolate, alcohol, and certain essential oils, can cause upset stomach in dogs, including diarrhea.
+
+
+Foreign body ingestion—Some dogs tend to eat foreign objects,",0.37
+Which sign suggests vomiting may be due to obstruction?,vomiting,A,A,True,True,3,"Pale gum color (can indicate internal bleeding and can lead to life-threatening anemia)
+
+
+Distended abdomen (can be a sign of bloat or other abdominal emergencies)
+
+
+Labored breathing or blue or purpl",0.54
+Which symptom often appears with diarrhea caused by parasites?,diarrhea,A,A,True,True,3,"If you have a puppy or an adult dog that is vomiting or has diarrhea and they are not on heartworm prevention, have your dog’s stool checked at a veterinary hospital for intestinal parasites. Most par",0.44
+Which stool feature suggests serious diarrhea?,diarrhea,A,A,True,True,3,"Rapid intestinal transit diarrhea—This diarrhea type occurs when a dog’s colon squeezes more intensely than normal, causing the material inside to pass quickly through the GI tract. Rapid intestinal t",0.42
+Which factor commonly triggers diarrhea in dogs?,diarrhea,A,A,True,True,3,"Dog Diarrhea | PetMD
+
+Rapid intestinal transit diarrhea—This diarrhea type occurs when a dog’s colon squeezes more intensely than normal, causing the material inside to pass quickly through the GI tra",0.28
+Which sign often accompanies kennel cough infection?,cough,A,A,True,True,3,"Kennel cough is a common, contagious disease that produces coughing and other upper respiratory symptoms in dogs. The disease can cause significant discomfort — and in some cases, serious complication",2.81
+Which environment spreads kennel cough easily?,cough,A,A,True,True,3,"You can also reduce your dog’s risk by choosing facilities (boarding, grooming, etc.) wisely. Kennel cough can occur even in excellent facilities — just like a human day care, infectious diseases can ",0.44
+Which vaccination can help prevent kennel cough?,cough,A,A,True,True,3,"Preventing Kennel Cough in Dogs
+Vaccination is one of the best ways to prevent kennel cough, especially for dogs who socialize or go to facilities (boarding, grooming, day care, dog parks, etc.) or ev",0.43
+Which breathing sign suggests emergency respiratory distress?,breathing,A,A,True,True,3,OverviewRespiratory distress is a serious medical emergency that occurs when a dog cannot get enough oxygen to meet its body’s demands and requires immediate attention. Several conditions may predispo,0.6
+What noise may indicate breathing difficulty?,breathing,A,A,True,True,3,"what does it look like?Respiratory distress occurs when a dog cannot get enough oxygen to meet its body’s demands.Signs of respiratory distress may include:Rapid breathing, often with an open mouthA b",0.3
+Which breathing pattern indicates distress?,breathing,A,A,True,True,3,"what does it look like?Respiratory distress occurs when a dog cannot get enough oxygen to meet its body’s demands.Signs of respiratory distress may include:Rapid breathing, often with an open mouthA b",0.4
+Which injury commonly causes sudden limping?,limping,A,A,True,True,3,"Why Is My Dog Limping? | PetMD
+
+Recovery and Management of Limping in Dogs
+Some causes of limping will recover quickly with rest and pain medications. If your pet has had surgery or more advanced trea",0.4
+What should an owner check if a dog suddenly limps?,limping,A,A,True,True,3,"Why Is My Dog Limping? | PetMD
+
+This will help you determine if your dog’s severe limp warrants a trip to the emergency clinic or if you can wait to see your regular veterinarian as soon as possible.
+",0.4
+Which symptom with limping suggests fracture?,limping,A,A,True,True,3,"Why Is My Dog Limping? | PetMD
+
+Diagnosing Limping in Dogs
+Vets will diagnose lameness in dogs by taking a thorough health history.
+Be prepared to answer the following questions:
+
+
+How long has your d",1.01
+Which illness commonly causes lethargy?,lethargy,A,A,True,True,3,"What Causes Lethargy in Dogs? 
+There are several possible causes of lethargy in dogs. A few common reasons a dog may be lethargic include:
+
+
+Infection
+
+
+Viral, bacterial, fungal
+
+
+External parasites (",2.47
+Which symptom with lethargy suggests systemic disease?,lethargy,A,A,True,True,3,"Vocalization (yelping or whining)
+
+
+Trembling
+
+
+Behavior changes (like hiding, unwillingness to move, fear, or reactivity)
+
+
+Bleeding
+
+
+An obvious fracture or dislocation
+
+
+Limb dragging
+
+
+Swelling of",0.46
+Which behavior indicates lethargy?,lethargy,A,A,True,True,3,"Lethargy in Dogs: When To Worry | PetMD
+
+What Is Dog Lethargy?
+Lethargy in dogs is a lack of energy and enthusiasm.
+But what does that mean for your dog?
+It's an important distinction to know if your ",0.48
+What is a common trigger of seizures in dogs?,seizure,A,A,True,True,3,A partial seizure is caused by abnormal electrical activity within a relatively small portion of the brain. I don’t know what part of the brain needs to be stimulated to make a dog exhibit fly biting ,0.42
+What should be avoided during a seizure?,seizure,A,A,True,True,3,A partial seizure is caused by abnormal electrical activity within a relatively small portion of the brain. I don’t know what part of the brain needs to be stimulated to make a dog exhibit fly biting ,0.3
+How long seizure duration requires emergency care?,seizure,A,A,True,True,3,A partial seizure is caused by abnormal electrical activity within a relatively small portion of the brain. I don’t know what part of the brain needs to be stimulated to make a dog exhibit fly biting ,0.35
+Which symptom indicates eye infection?,eye,A,A,True,True,3,"Eye infections can develop as a primary problem or as a result of another condition (corneal wounds or dry eye, for example) that weakens the eye’s natural defenses against infection. Sometimes what l",0.86
+Which type of discharge suggests infection?,eye,A,A,True,True,3,"5 Types of Dog Eye Discharge and When To Go to the Vet | PetMD
+
+Common Types of Eye Discharge in Dogs
+Let’s take a look at five common types of dog eye discharge and what you should do about them.
+1. ",0.37
+Which behavior indicates eye discomfort?,eye,A,A,True,True,3,"Irritants
+
+
+Foreign material in the eye
+
+
+Allergies
+
+
+Anatomical abnormalities (very prominent eyes or rolled-in eyelids, for example)
+
+
+Blocked tear ducts
+
+
+Corneal wounds
+
+
+Glaucoma (increased eye p",0.51
+Which sign commonly appears with ear infection?,ear,A,A,True,True,3,"8 Signs Your Dog Has an Ear Infection
+
+8 Signs of Ear Infections in Dogs: What To Look For | PetMD
+
+The most common signs of dog ear infections include head shaking, odor, redness, swelling, and disch",0.71
+Which smell suggests ear infection?,ear,A,A,True,True,3,"You should be concerned about potential inner ear disease if you’re noticing stumbling or a lack of coordination along with the head tilt. Inner ear infections are harder to treat, affect balance, and",0.44
+Which discharge suggests ear infection?,ear,A,A,True,True,3,The veterinarian will usually put a cotton swab in your dog’s ear to get a sample of the discharge that’s there. They’ll look at this debris under the microscope to figure out the type of infection an,0.31
+What type of medication is Rimadyl?,medication,A,A,True,True,3,"Carprofen (Rimadyl) for Dogs | PetMD
+
+in DogsEnd of Life CareSenior Cat CareSenior Dog CareSpecialty Pet Care SheetsWildlifeProduct ReviewsVet Verified ProductsAbout Vet VerifiedHealth ToolsSymptom Ch",0.51
+Which condition is Rimadyl often prescribed for?,medication,A,A,True,True,3,"Carprofen (Rimadyl) for Dogs | PetMD
+
+in DogsEnd of Life CareSenior Cat CareSenior Dog CareSpecialty Pet Care SheetsWildlifeProduct ReviewsVet Verified ProductsAbout Vet VerifiedHealth ToolsSymptom Ch",0.68
+Which side effect can occur with NSAIDs in dogs?,medication,A,A,True,True,3,"Certain NSAIDs that can safely be used for dogs are approved by the United States Food and Drug Administration (FDA) to help control pain and inflammation in dogs with osteoarthritis. 
+These medicatio",0.48
+Which early symptom indicates heatstroke?,heatstroke,A,A,True,True,3,"Signs and Symptoms of Heatstroke in Dogs
+Signs of heatstroke in dogs include:
+
+
+Excessive panting
+
+
+Reddened gums/mucous membranes
+
+
+Tachycardia (fast heart rate)
+
+
+Dehydration 
+
+
+Elevated temperature",0.44
+Which environment increases heatstroke risk?,heatstroke,A,A,True,True,3,"Heatstroke in dogs is becoming increasingly more dangerous due to climate change and extreme weather patterns.
+If you suspect your dog may be experiencing heatstroke, call your veterinarian or local e",0.43
+Which sign suggests severe heatstroke?,heatstroke,A,A,True,True,3,"Diagnosing Heatstroke in Dogs
+Heatstroke in dogs is often a diagnosis based on history of heat exposure (being left in the car, exercising), symptoms, and body temperature greater than 104 F.
+Once you",1.48
+Why do dogs pant?,temperature,A,A,True,True,3,"Do Dogs Sweat? | PetMD
+
+Foreign Body Obstruction (Eating Rocks, Toys, Etc.)
+Puppies are very curious about everything. They do not instinctively know what they should and should not eat. Puppies and e",1.39
+Which body part contains sweat glands in dogs?,temperature,A,A,True,True,3,"Merocrine sweat glands are made of secretory cells and are mostly found in the paws. When a dog is hot or nervous, sweat is released—you might see your dog leave behind light, sweaty footprints as the",0.41
+Which fluid may help mild dehydration in dogs?,hydration,A,A,True,True,3,"Veterinarians will treat a dog’s dehydration by giving subcutaneous fluids (fluids that go under the skin) or intravenous fluids (fluids that are given into the vein through an IV catheter).
+These flu",0.82
+Which sign indicates moderate dehydration?,dehydration,A,A,True,True,3,"Is My Dog Dehydrated? | PetMD
+
+in DogsEnd of Life CareSenior Cat CareSenior Dog CareSpecialty Pet Care SheetsWildlifeProduct ReviewsVet Verified ProductsAbout Vet VerifiedHealth ToolsSymptom CheckerHe",0.39
+What is the skin tent test used for?,dehydration,A,A,True,True,3,"Skin Pinch Test (Skin Tent)
+You can check for dehydration by testing the elasticity of your dog’s skin. Do this by gently pulling up some of your dog’s loose skin at the back of their neck or over the",0.41
+Which medication type treats inflammation in dogs?,pain,A,A,True,True,3,"Pain Meds for Dogs: What Can You Give a Dog for Pain? | PetMD
+
+Your vet will work with you to develop a special plan for your dog’s pain relief, depending on the type of pain your dog is experiencing.",0.9
+Why should ibuprofen not be given to dogs?,pain,A,A,True,True,3,"Is carprofen the same as ibuprofen?Carprofen and ibuprofen are both non-steroidal anti-inflammatory drugs (NSAIDs). However, carprofen (Rimadyl) is used in dogs, and ibuprofen is used in people. 
+Do n",0.43
+Which movement difficulty suggests back pain?,backpain,A,A,True,True,3,"Back Pain In Dogs: 7 Common Reasons For Dog Back Pain | PetMD
+
+How Do I Know If My Dog Has Back Pain?
+The most obvious sign of back pain in dogs is when they cry out when touched in the affected area ",0.39
+Which neurological sign may accompany back pain?,backpain,A,A,True,True,3,"How Do I Know If My Dog Has Back Pain?
+The most obvious sign of back pain in dogs is when they cry out when touched in the affected area or when moving around.
+If you are unsure whether the pain is du",0.48
+Which sign may indicate advanced cancer in dogs?,cancer,A,A,True,True,3,"Signs a Dog Is Dying of Cancer | PetMD
+
+Late-Stage Cancer Symptoms in Dogs
+Both early- and late-stage cancers require near-constant monitoring.
+Pay close attention to changes in your dog’s behavior an",0.49
+Which symptom suggests declining quality of life?,cancer,A,A,True,True,3,"Cardiac or heart disease and failure
+Bacterial, viral and infectious diseases
+Gastrointestinal and metabolic diseases (e.g., kidney and liver diseases)
+Psychological problems (e.g., stress or environm",1.38

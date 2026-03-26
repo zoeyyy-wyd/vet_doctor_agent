@@ -2,3 +2,5 @@
 .git
 .gradio
 .ipynb_checkpoints
+evaluation_mcq
+vet_doctor
